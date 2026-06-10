@@ -140,4 +140,7 @@ This project is for **educational purposes only**. All design credits belong to 
 
 Made with 🥛 and a lot of GSAP
 
-</div># Spylt-Drink-E-Commerce-Website
+
+</div>
+
+# Spylt-Drink-E-Commerce-Website
